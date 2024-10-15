@@ -1,0 +1,51 @@
+What is cloud computing?
+       Cloud Computing is a on-demand availability of it resources via the internet with pay as you go pricing.
+Benifits of cloud computing?
+       1.Cost savings: Cloud computing eliminates the need to buy hardware and software, set up datacenters, and pay for electricity and cooling. 
+       2.Performance and availability: Cloud Computing resouces can be used simultaneously, which can lead to better performance than having your own dedicated server hardware.
+       3.Collaboration: Cloud Computing allows teams to easily access, edit, and share files from anywhere.
+       4.Scalability and flexibility: Cloud computing allows you to spin up new instances or retire them in seconds.
+       5.Security: Cloud providers are responsible for updating cloud systems and fixing bugs and security issues.
+       6.Data loss prevention: Cloud computing can help prevent data loss.
+       7.Self-service: Most cloud resources and services can be used with a little bit of learning.
+Cloud service models:
+    there are the following three types of cloud service models-
+        1.Infrastructure as a Service(IaaS):
+              It is also known as Hardware as a Service(HaaS). It is a computing managed over the internet. The main advantage of using IaaS is that it helps users to avoid the cost and complexity of purchasing and managing
+the physical servers. Example: AWS, Microsoft Azure, Google Compute Engine(GCE).
+        2.Platform as a Service(PaaS):
+              PaaS cloud computing platform is created for the programmer to develop, test, run, and manage the applications. Example: AWS Elastic Beanstalk, Windows Azure, OpenShift.
+        3.Software as a Service(SaaS):
+              SaaS is also known as "on-demand software". It is a software in which the applications are hosted by a cloud service provider. Users can access these applications with the help of 
+internet connection and web browser. Example: BigCommerce, Google Apps, Salesforce.
+Core Architectural components of Azure:
+        1.Azure Subscriptions: 
+              The central building block of every Azure landscape, all resources must be assigned to exactly one subscription.
+        2.Azure resource Groups:
+              A critical component of Azure administration, Azure Resource Groups helps administrators quickly identify resources, deploy new resources, and automate workflows.
+        3.Azure Availability Zones:
+              A critical component of a business continuity and disaster recovery stratergy, Azure Availability Zones ensures the availability of business-critical applications and data during a crisis.
+        4.Azure Policies: 
+              It is a service within Microsoft Azure that allows organizations to create, assign, and manage policies.
+        5.Azure Availability Zones: 
+              A critical component of a business continuity and disaster recovery stratergy, Azure Availability Zones ensures the availability of business-critical applications and data during a crisis.
+        6.Azure region:
+              An Azure region is a geographical area in which one or more physical Azure data centers reside.
+        7.DataCenter:
+              It is a physical building in an availability zone.
+How to create Azure resource group? step by step explain.
+        1.Sign in to the Azure portal.
+        2.Select Resource groups.
+        3.Select Create.
+        4.Enter the following values:
+            >Subscription: Select your Azure subscription.
+            >Resource group: Enter a new resource group name.
+            >Region: Select an Azure location, such as Central US.
+        5.Select Review + Create.
+        6.Select Create. It takes a few seconds to create a resource group.
+        7.Select Refresh from the top menu to refresh the resource group list, and then select the newly created resource group to open it. Or select Notification(the bell icon) from the top
+, and then select Go to resource group to open the newly created resource group.
+
+
+
+
